@@ -6,7 +6,7 @@ Name: Vedika Patel
 Registration Number: 24BEY10180 
 
 ## Chosen Software
-Git
+Vlc
 
 ## About the Project
 This project is based on studying and understanding an open source software, Git. The main aim was to explore why it was created, how it works, and what role it plays in modern software development.
