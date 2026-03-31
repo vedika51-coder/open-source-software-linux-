@@ -4,7 +4,7 @@
 
 # --- Variables ---
 STUDENT_NAME="Vedika"
-SOFTWARE_CHOICE="Git"
+SOFTWARE_CHOICE="VLC Media Player"
 
 # --- System info ---
 KERNEL=$(uname -r)
@@ -23,4 +23,4 @@ echo "User     : $USER_NAME"
 echo "Distro   : $DISTRO"
 echo "Uptime   : $UPTIME"
 echo "Date     : $DATE"
-echo "License  : GNU General Public License (GPL)"
+echo "License  : GNU GPL / LGPL"
